@@ -10,10 +10,6 @@
 #### 2.	Manual de usuario del programa
 2.1	Principio del programa.
 
-2.2	
-
-2.3	
-
 
 
 ## 1.1 instalación del jdk
