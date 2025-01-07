@@ -1,4 +1,4 @@
-# TICKETPALEX
+# FernanShop
 
 ![](https://cdn.discordapp.com/attachments/1202672799580295228/1326284671511953470/image.png?ex=677ede5a&is=677d8cda&hm=2505d745da09e60c9314b5fd8b2408d6ac2c2a005715a9aa0f4d5e52644779a6&)
 
